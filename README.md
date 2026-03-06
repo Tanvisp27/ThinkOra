@@ -1,6 +1,6 @@
 # ThinkOra
 
-ThinkOra is a Decentralized Escrow Payment System designed to eliminate trust issues in online transactions. By leveraging Web3 smart contracts, it acts as an unbiased middleman that securely holds funds until both parties fulfill their end of the agreement.
+TrustChain Escrow System is a Decentralized Escrow Payment System designed to eliminate trust issues in online transactions. By leveraging Web3 smart contracts, it acts as an unbiased middleman that securely holds funds until both parties fulfill their end of the agreement.
 
 ## Core Mechanism
 
